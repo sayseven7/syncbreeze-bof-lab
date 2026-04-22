@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+
+# Virtual environments
+venv/
+.env/
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# Linux temp files
+*~
+*.swp
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Binary test files (optional)
+*.exe
+
+# Generated payloads / temp files
+output.bin
+payload.bin
+badchars.bin
